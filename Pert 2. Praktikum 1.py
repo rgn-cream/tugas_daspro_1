@@ -8,3 +8,4 @@ umur = input("Umur: ")
 
 print(f"Selamat datang, {nama} !")
 print(f"Umur anda saat ini adalah {umur}")
+print(f"Nama : {nama}, Umur : {umur}")
