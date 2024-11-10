@@ -2,7 +2,7 @@
 NIM : 2406043
 Kelas : 1B"""
 
-alas = int(input("alas: "))
-tinggi = int(input("tinggi: "))
+alas = float(input("alas: "))
+tinggi = float(input("tinggi: "))
 luas_segitiga = alas * tinggi / 2
 print(f"luas segitiga: {luas_segitiga}")
